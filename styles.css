@@ -1,0 +1,200 @@
+/* Academic Website Stylesheet */
+/* Clean, minimal design for professional academic presence */
+
+:root {
+  --primary-color: #2c3e50;
+  --accent-color: #3498db;
+  --text-color: #333;
+  --light-gray: #f8f9fa;
+  --border-color: #e9ecef;
+  --max-width: 800px;
+}
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: 'Georgia', 'Times New Roman', serif;
+  font-size: 18px;
+  line-height: 1.7;
+  color: var(--text-color);
+  background-color: #fff;
+  padding: 2rem;
+}
+
+/* Container */
+.container {
+  max-width: var(--max-width);
+  margin: 0 auto;
+  padding: 1rem;
+}
+
+/* Typography */
+h1 {
+  font-size: 2.2rem;
+  color: var(--primary-color);
+  margin-bottom: 0.5rem;
+  font-weight: normal;
+  border-bottom: 2px solid var(--accent-color);
+  padding-bottom: 0.5rem;
+}
+
+h2 {
+  font-size: 1.5rem;
+  color: var(--primary-color);
+  margin-top: 2rem;
+  margin-bottom: 1rem;
+  font-weight: normal;
+}
+
+h3 {
+  font-size: 1.2rem;
+  color: var(--primary-color);
+  margin-top: 1.5rem;
+  margin-bottom: 0.75rem;
+  font-weight: 600;
+}
+
+p {
+  margin-bottom: 1rem;
+}
+
+/* Links */
+a {
+  color: var(--accent-color);
+  text-decoration: none;
+  border-bottom: 1px solid transparent;
+  transition: border-color 0.2s;
+}
+
+a:hover {
+  border-bottom-color: var(--accent-color);
+}
+
+/* Navigation */
+nav {
+  background-color: var(--light-gray);
+  padding: 1rem;
+  margin-bottom: 2rem;
+  border-radius: 4px;
+}
+
+nav ul {
+  list-style: none;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1.5rem;
+  justify-content: center;
+}
+
+nav a {
+  color: var(--primary-color);
+  font-size: 0.95rem;
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+}
+
+nav a:hover {
+  color: var(--accent-color);
+}
+
+/* Profile Image */
+img.profile {
+  width: 200px;
+  height: auto;
+  border-radius: 4px;
+  float: right;
+  margin: 0 0 1rem 2rem;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+}
+
+/* Lists */
+ul, ol {
+  margin-left: 1.5rem;
+  margin-bottom: 1rem;
+}
+
+li {
+  margin-bottom: 0.5rem;
+}
+
+/* Tables */
+table {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 1.5rem 0;
+  font-size: 0.95rem;
+}
+
+th, td {
+  padding: 0.75rem;
+  text-align: left;
+  border-bottom: 1px solid var(--border-color);
+}
+
+th {
+  background-color: var(--light-gray);
+  font-weight: 600;
+  color: var(--primary-color);
+}
+
+/* Horizontal Rule */
+hr {
+  border: none;
+  border-top: 1px solid var(--border-color);
+  margin: 2rem 0;
+}
+
+/* Blockquotes */
+blockquote {
+  border-left: 3px solid var(--accent-color);
+  padding-left: 1rem;
+  margin: 1.5rem 0;
+  color: #666;
+  font-style: italic;
+}
+
+/* Code/Technical */
+code {
+  background-color: var(--light-gray);
+  padding: 0.2rem 0.4rem;
+  border-radius: 3px;
+  font-size: 0.9em;
+}
+
+/* Footer */
+footer {
+  margin-top: 3rem;
+  padding-top: 1.5rem;
+  border-top: 1px solid var(--border-color);
+  text-align: center;
+  font-size: 0.9rem;
+  color: #666;
+}
+
+/* Responsive */
+@media (max-width: 600px) {
+  body {
+    padding: 1rem;
+    font-size: 16px;
+  }
+  
+  img.profile {
+    float: none;
+    display: block;
+    margin: 0 auto 1.5rem;
+  }
+  
+  nav ul {
+    flex-direction: column;
+    align-items: center;
+    gap: 0.75rem;
+  }
+  
+  h1 {
+    font-size: 1.8rem;
+  }
+}

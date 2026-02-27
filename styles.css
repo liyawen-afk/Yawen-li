@@ -1,139 +1,131 @@
-/* Warm & Modern Academic Style */
+/* Luxury Academic Style - Deep Wine & Cream Gold */
 :root {
-  --primary-color: #8b2d38; /* CSUSB Maroon / Deep Wine */
-  --accent-color: #d4af37;  /* Soft Gold */
-  --text-color: #2c3e50;
-  --bg-color: #fdfaf6;      /* Warm Parchment */
-  --card-bg: #ffffff;
+  --primary-color: #722f37; /* Deep Wine / Burgundy */
+  --accent-color: #b8860b;  /* Dark Goldenrod */
+  --text-color: #3e2723;    /* Deep Coffee Brown */
+  --bg-color: #fcf3e8;      /* Creamy Warm Vanilla */
+  --card-bg: #fffbf0;       /* Lighter Silk Cream */
+  --nav-bg: #722f37;
 }
 
 body {
-  font-family: 'Georgia', 'Times New Roman', serif;
-  line-height: 1.6;
+  font-family: 'Georgia', 'Palatino', serif;
+  line-height: 1.8;
   color: var(--text-color);
-  background-color: var(--bg-color);
+  background-color: var(--bg-color); /* 明显的背景色 */
   margin: 0;
   padding: 0;
 }
 
 .container {
   max-width: 900px;
-  margin: 40px auto;
-  padding: 40px;
+  margin: 50px auto;
+  padding: 50px;
   background: var(--card-bg);
-  box-shadow: 0 10px 30px rgba(0,0,0,0.05);
-  border-radius: 12px;
-  border-top: 6px solid var(--primary-color);
+  box-shadow: 0 15px 45px rgba(114, 47, 55, 0.1);
+  border-radius: 15px;
+  border: 1px solid #eadbc8;
 }
 
 nav {
-  margin-bottom: 40px;
-  border-bottom: 1px solid #eee;
-  padding-bottom: 20px;
+  margin: -50px -50px 50px -50px;
+  background-color: var(--nav-bg);
+  padding: 20px;
+  border-radius: 15px 15px 0 0;
 }
 
 nav ul {
   list-style: none;
   padding: 0;
+  margin: 0;
   display: flex;
   justify-content: center;
-  gap: 25px;
+  gap: 30px;
 }
 
 nav a {
   text-decoration: none;
-  color: var(--text-color);
+  color: #fff !important;
   font-weight: 600;
-  font-family: 'Helvetica Neue', sans-serif;
+  font-family: 'Helvetica Neue', Arial, sans-serif;
   text-transform: uppercase;
-  font-size: 0.85rem;
-  letter-spacing: 1px;
-  transition: color 0.3s;
+  font-size: 0.9rem;
+  letter-spacing: 1.5px;
+  transition: all 0.3s;
 }
 
 nav a:hover {
-  color: var(--primary-color);
+  color: var(--accent-color) !important;
 }
 
 h1 {
   color: var(--primary-color);
-  font-size: 2.5rem;
+  font-size: 2.8rem;
   text-align: center;
-  margin-bottom: 10px;
+  margin-top: 20px;
+  letter-spacing: -1px;
+}
+
+.subtitle {
+  text-align: center;
+  font-family: 'Helvetica Neue', sans-serif;
+  text-transform: uppercase;
+  letter-spacing: 3px;
+  color: var(--accent-color);
+  margin-bottom: 40px;
+  font-weight: bold;
 }
 
 h2 {
   color: var(--primary-color);
-  border-left: 4px solid var(--accent-color);
-  padding-left: 15px;
-  margin-top: 40px;
+  border-bottom: 2px solid var(--accent-color);
+  padding-bottom: 10px;
+  margin-top: 50px;
   font-family: 'Helvetica Neue', sans-serif;
 }
 
 .profile {
   display: block;
-  width: 200px;
-  height: 200px;
-  margin: 30px auto;
+  width: 220px;
+  height: 220px;
+  margin: 0 auto 30px auto;
   border-radius: 50%;
   object-fit: cover;
-  border: 4px solid #fff;
-  box-shadow: 0 4px 15px rgba(0,0,0,0.1);
-}
-
-.subtitle {
-  text-align: center;
-  font-style: italic;
-  color: #666;
-  margin-bottom: 30px;
+  border: 5px solid #fff;
+  box-shadow: 0 8px 25px rgba(0,0,0,0.15);
 }
 
 hr {
   border: 0;
   height: 1px;
-  background: linear-gradient(to right, transparent, #ddd, transparent);
+  background-image: linear-gradient(to right, rgba(184, 134, 11, 0), rgba(184, 134, 11, 0.75), rgba(184, 134, 11, 0));
   margin: 40px 0;
 }
 
 footer {
   text-align: center;
   margin-top: 60px;
-  font-size: 0.9rem;
-  color: #999;
+  padding: 20px;
+  font-size: 0.85rem;
+  color: var(--primary-color);
+  opacity: 0.7;
 }
 
 a {
   color: var(--primary-color);
-  transition: opacity 0.3s;
+  text-decoration: none;
+  border-bottom: 1px solid transparent;
+  transition: all 0.3s;
 }
 
 a:hover {
-  opacity: 0.7;
+  border-bottom: 1px solid var(--primary-color);
 }
 
-/* Table styling for grants */
-table {
-  width: 100%;
-  border-collapse: collapse;
-  margin: 20px 0;
+ul {
+  padding-left: 20px;
 }
 
-th, td {
-  text-align: left;
-  padding: 12px;
-  border-bottom: 1px solid #eee;
-}
-
-th {
-  background-color: #f9f9f9;
-  color: var(--primary-color);
-}
-
-/* Publication/Grant Item styling */
-p {
-  margin-bottom: 15px;
-}
-
-strong {
-  color: #1a1a1a;
+li {
+  margin-bottom: 10px;
 }

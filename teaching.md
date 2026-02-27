@@ -6,7 +6,7 @@ I am committed to preparing students for research-informed, culturally responsiv
 
 ---
 
-## Current Courses (CSUSB)
+## Courses Taught (CSUSB, 2021–Present)
 
 **Social Work Research Methods** (SW6011, 6012, 6013, 6014, 3010)  
 Graduate and undergraduate courses covering research design, data collection, and analysis for social work practice and policy evaluation.
@@ -19,12 +19,13 @@ Focuses on organizational and community-level social work practice, including pr
 
 ---
 
-## Previous Courses (SDSU, 2009–2021)
+## Courses Taught (SDSU, 2009–2021)
 
 - Social Welfare Policy and Program (SW601)
 - Generalist Social Work Practice (SW483b)
 - Seminar on Social Policy and Aging (SW702)
 - Intergenerational Issues (GERO250)
+- Bridge Course for Advanced MSW Students (SW671)
 - Organizations & Communities (SW632)
 
 ---
@@ -33,16 +34,16 @@ Focuses on organizational and community-level social work practice, including pr
 
 I actively mentor undergraduate and graduate students in research, serving as:
 
-- Faculty advisor for MSW students at CSUSB
-- Thesis committee member for graduate students across departments
-- Supervisor for undergraduate research assistants
-- Judge for student research symposia (Meeting of Minds, SCCUR)
+- **Faculty advisor** for MSW students at CSUSB
+- **Outside Doctoral Dissertation Committee Member**, School of Community and Global Health, Claremont Graduate University (2020–2022)
+- **Thesis committee member** for graduate students across departments
+- **Judge** for student research symposia (Meeting of Minds, SCCUR, SDSU SRS)
 
-### Recent Student Projects
+### Recent Student Projects Supported
 
-- Technology capability of adult day services in the US
-- Analysis of MSW student research competencies
-- GIS mapping of adult day service accessibility
+- **Technology capability of adult day services in the US** (Arcayena & Bradley)
+- **Analysis of research competencies of MSW students** (Gallegos & Bhatia)
+- **GIS mapping of adult day service accessibility** (Ewing & Rodriguez)
 
 ---
 

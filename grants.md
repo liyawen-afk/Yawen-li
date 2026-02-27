@@ -20,6 +20,12 @@ Amount: $32,500
 
 A community-based pilot study assessing the efficacy of music-based binaural beat stimulation for patients with Alzheimer's disease.
 
+### Beyond the Screen: Real China behind Little RedNote
+**CSUSB Signature Study Abroad Program**  
+Role: Co-Investigator (Yu, J., Li, Y., Chen, Z., & Chen, K.)  
+Period: 2025  
+Amount: $8,000
+
 ---
 
 ## Selected Completed Projects

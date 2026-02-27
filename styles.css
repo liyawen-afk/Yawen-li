@@ -1,200 +1,139 @@
-/* Academic Website Stylesheet */
-/* Clean, minimal design for professional academic presence */
-
+/* Warm & Modern Academic Style */
 :root {
-  --primary-color: #2c3e50;
-  --accent-color: #3498db;
-  --text-color: #333;
-  --light-gray: #f8f9fa;
-  --border-color: #e9ecef;
-  --max-width: 800px;
-}
-
-* {
-  box-sizing: border-box;
-  margin: 0;
-  padding: 0;
+  --primary-color: #8b2d38; /* CSUSB Maroon / Deep Wine */
+  --accent-color: #d4af37;  /* Soft Gold */
+  --text-color: #2c3e50;
+  --bg-color: #fdfaf6;      /* Warm Parchment */
+  --card-bg: #ffffff;
 }
 
 body {
   font-family: 'Georgia', 'Times New Roman', serif;
-  font-size: 18px;
-  line-height: 1.7;
+  line-height: 1.6;
   color: var(--text-color);
-  background-color: #fff;
-  padding: 2rem;
+  background-color: var(--bg-color);
+  margin: 0;
+  padding: 0;
 }
 
-/* Container */
 .container {
-  max-width: var(--max-width);
-  margin: 0 auto;
-  padding: 1rem;
+  max-width: 900px;
+  margin: 40px auto;
+  padding: 40px;
+  background: var(--card-bg);
+  box-shadow: 0 10px 30px rgba(0,0,0,0.05);
+  border-radius: 12px;
+  border-top: 6px solid var(--primary-color);
 }
 
-/* Typography */
-h1 {
-  font-size: 2.2rem;
-  color: var(--primary-color);
-  margin-bottom: 0.5rem;
-  font-weight: normal;
-  border-bottom: 2px solid var(--accent-color);
-  padding-bottom: 0.5rem;
-}
-
-h2 {
-  font-size: 1.5rem;
-  color: var(--primary-color);
-  margin-top: 2rem;
-  margin-bottom: 1rem;
-  font-weight: normal;
-}
-
-h3 {
-  font-size: 1.2rem;
-  color: var(--primary-color);
-  margin-top: 1.5rem;
-  margin-bottom: 0.75rem;
-  font-weight: 600;
-}
-
-p {
-  margin-bottom: 1rem;
-}
-
-/* Links */
-a {
-  color: var(--accent-color);
-  text-decoration: none;
-  border-bottom: 1px solid transparent;
-  transition: border-color 0.2s;
-}
-
-a:hover {
-  border-bottom-color: var(--accent-color);
-}
-
-/* Navigation */
 nav {
-  background-color: var(--light-gray);
-  padding: 1rem;
-  margin-bottom: 2rem;
-  border-radius: 4px;
+  margin-bottom: 40px;
+  border-bottom: 1px solid #eee;
+  padding-bottom: 20px;
 }
 
 nav ul {
   list-style: none;
+  padding: 0;
   display: flex;
-  flex-wrap: wrap;
-  gap: 1.5rem;
   justify-content: center;
+  gap: 25px;
 }
 
 nav a {
-  color: var(--primary-color);
-  font-size: 0.95rem;
+  text-decoration: none;
+  color: var(--text-color);
+  font-weight: 600;
+  font-family: 'Helvetica Neue', sans-serif;
   text-transform: uppercase;
-  letter-spacing: 0.5px;
+  font-size: 0.85rem;
+  letter-spacing: 1px;
+  transition: color 0.3s;
 }
 
 nav a:hover {
-  color: var(--accent-color);
-}
-
-/* Profile Image */
-img.profile {
-  width: 200px;
-  height: auto;
-  border-radius: 4px;
-  float: right;
-  margin: 0 0 1rem 2rem;
-  box-shadow: 0 2px 8px rgba(0,0,0,0.1);
-}
-
-/* Lists */
-ul, ol {
-  margin-left: 1.5rem;
-  margin-bottom: 1rem;
-}
-
-li {
-  margin-bottom: 0.5rem;
-}
-
-/* Tables */
-table {
-  width: 100%;
-  border-collapse: collapse;
-  margin: 1.5rem 0;
-  font-size: 0.95rem;
-}
-
-th, td {
-  padding: 0.75rem;
-  text-align: left;
-  border-bottom: 1px solid var(--border-color);
-}
-
-th {
-  background-color: var(--light-gray);
-  font-weight: 600;
   color: var(--primary-color);
 }
 
-/* Horizontal Rule */
-hr {
-  border: none;
-  border-top: 1px solid var(--border-color);
-  margin: 2rem 0;
-}
-
-/* Blockquotes */
-blockquote {
-  border-left: 3px solid var(--accent-color);
-  padding-left: 1rem;
-  margin: 1.5rem 0;
-  color: #666;
-  font-style: italic;
-}
-
-/* Code/Technical */
-code {
-  background-color: var(--light-gray);
-  padding: 0.2rem 0.4rem;
-  border-radius: 3px;
-  font-size: 0.9em;
-}
-
-/* Footer */
-footer {
-  margin-top: 3rem;
-  padding-top: 1.5rem;
-  border-top: 1px solid var(--border-color);
+h1 {
+  color: var(--primary-color);
+  font-size: 2.5rem;
   text-align: center;
-  font-size: 0.9rem;
-  color: #666;
+  margin-bottom: 10px;
 }
 
-/* Responsive */
-@media (max-width: 600px) {
-  body {
-    padding: 1rem;
-    font-size: 16px;
-  }
-  
-  img.profile {
-    float: none;
-    display: block;
-    margin: 0 auto 1.5rem;
-  }
-  
-  nav ul {
-    flex-direction: column;
-    align-items: center;
-    gap: 0.75rem;
-  }
-  
-  h1 {
-    font-size: 1.8rem;
-  }
+h2 {
+  color: var(--primary-color);
+  border-left: 4px solid var(--accent-color);
+  padding-left: 15px;
+  margin-top: 40px;
+  font-family: 'Helvetica Neue', sans-serif;
+}
+
+.profile {
+  display: block;
+  width: 200px;
+  height: 200px;
+  margin: 30px auto;
+  border-radius: 50%;
+  object-fit: cover;
+  border: 4px solid #fff;
+  box-shadow: 0 4px 15px rgba(0,0,0,0.1);
+}
+
+.subtitle {
+  text-align: center;
+  font-style: italic;
+  color: #666;
+  margin-bottom: 30px;
+}
+
+hr {
+  border: 0;
+  height: 1px;
+  background: linear-gradient(to right, transparent, #ddd, transparent);
+  margin: 40px 0;
+}
+
+footer {
+  text-align: center;
+  margin-top: 60px;
+  font-size: 0.9rem;
+  color: #999;
+}
+
+a {
+  color: var(--primary-color);
+  transition: opacity 0.3s;
+}
+
+a:hover {
+  opacity: 0.7;
+}
+
+/* Table styling for grants */
+table {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 20px 0;
+}
+
+th, td {
+  text-align: left;
+  padding: 12px;
+  border-bottom: 1px solid #eee;
+}
+
+th {
+  background-color: #f9f9f9;
+  color: var(--primary-color);
+}
+
+/* Publication/Grant Item styling */
+p {
+  margin-bottom: 15px;
+}
+
+strong {
+  color: #1a1a1a;
 }

@@ -86,8 +86,8 @@ h2 {
 
 .profile {
   display: block;
-  width: 220px;
-  height: 220px;
+  width: 300px;
+  height: 300px;
   margin: 0 auto 30px auto;
   border-radius: 50%;
   object-fit: cover;

@@ -20,9 +20,9 @@ I am currently Principal Investigator on an NIH-funded study examining dynamic c
 
 ## Education
 
-- **PhD**, University of Southern California, 2009  
-- **MSW**, University of Hong Kong, 2002  
-- **BA**, Yunnan University, 1999
+- **PhD**, University of Southern California 
+- **MSW**, University of Hong Kong
+- **BA**, Yunnan University
 
 ---
 

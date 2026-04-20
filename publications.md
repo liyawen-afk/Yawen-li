@@ -2,6 +2,8 @@
 
 ## Selected Peer-Reviewed Articles
 
+**Li, Y.**, Lendon, J. P., Kindilien, S., & Caffrey, C. (2026). Trends in electronic health record use among adult day services centers, 2016-2022: A cross-sectional panel study. *Health Science Reports*, 9(4), e72258. [doi:10.1002/hsr2.72258](https://doi.org/10.1002/hsr2.72258)
+
 Xie, B., **Li, Y.** [co-first author], Hwang, W., Niu, Z., Lei, X., Yu, R., Lai, Y., Fong, T., & Ma, Y. (2026). A culturally tailored diabetes self-management education program with mobile health integration for Chinese Americans with type 2 diabetes: Development and pilot evaluation study. *JMIR Formative Research*, 10, e77372. [doi:10.2196/77372](https://doi.org/10.2196/77372)
 
 Scher, C. J., Anderson, K., Zagorski, W., Siamdoust, S., **Li, Y.**, & Sadarangani, T. (2025). "We feel like a family here": Person-centered outcomes of adult day services use from the voices of people living with dementia and their caregivers. *BMC Health Services Research*, 25(1), 1–12. [doi:10.1186/s12913-025-13436-8](https://doi.org/10.1186/s12913-025-13436-8)

@@ -17,6 +17,9 @@ Examines issues facing aging populations and evidence-based interventions for ol
 **Macro Practice** (SW6020)  
 Focuses on organizational and community-level social work practice, including program development, policy advocacy, and community organizing.
 
+**[Study Abroad to China](china-study.html)**  
+China's Healthcare Revolution: Tradition Meets Innovation.
+
 ---
 
 ## Courses Taught (SDSU, 2009–2021)

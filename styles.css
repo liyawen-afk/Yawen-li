@@ -137,3 +137,111 @@ ul {
 li {
   margin-bottom: 10px;
 }
+
+.badge {
+  display: inline-block;
+  background: var(--bg-color);
+  border: 1px solid var(--accent-color);
+  color: var(--primary-color);
+  font-size: 0.8rem;
+  font-weight: bold;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  padding: 6px 14px;
+  margin-bottom: 16px;
+  border-radius: 999px;
+}
+
+.page-intro {
+  font-size: 1.08rem;
+}
+
+.section-intro {
+  font-style: italic;
+  color: var(--accent-color);
+  margin-bottom: 1rem;
+}
+
+.callout {
+  background: var(--bg-color);
+  border-left: 5px solid var(--primary-color);
+  padding: 20px;
+  margin: 20px 0;
+  border-radius: 0 8px 8px 0;
+}
+
+.stat-grid,
+.people-grid {
+  display: grid;
+  gap: 18px;
+}
+
+.stat-grid {
+  grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
+}
+
+.people-grid {
+  grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+}
+
+.stat-card,
+.person-card {
+  background: var(--bg-color);
+  border: 1px solid #eadbc8;
+  border-radius: 10px;
+  padding: 20px;
+}
+
+.stat-card {
+  text-align: center;
+}
+
+.stat-card strong,
+.person-card strong {
+  display: block;
+  color: var(--primary-color);
+  font-size: 1.1rem;
+  margin-bottom: 8px;
+}
+
+.role-label {
+  display: inline-block;
+  font-family: 'Helvetica Neue', Arial, sans-serif;
+  font-size: 0.75rem;
+  font-weight: 700;
+  letter-spacing: 1.3px;
+  text-transform: uppercase;
+  color: var(--accent-color);
+  margin-bottom: 10px;
+}
+
+.muted {
+  color: rgba(62, 39, 35, 0.8);
+}
+
+@media (max-width: 720px) {
+  .container {
+    margin: 20px;
+    padding: 24px;
+  }
+
+  nav {
+    margin: -24px -24px 32px -24px;
+    padding: 16px;
+  }
+
+  nav ul {
+    flex-wrap: wrap;
+    gap: 14px 18px;
+  }
+
+  .header-section {
+    flex-direction: column;
+    align-items: flex-start;
+  }
+
+  .profile {
+    width: 100%;
+    max-width: 320px;
+  }
+}

@@ -6,9 +6,11 @@
 
 Xie, B., **Li, Y.** [co-first author], Hwang, W., Niu, Z., Lei, X., Yu, R., Lai, Y., Fong, T., & Ma, Y. (2026). A culturally tailored diabetes self-management education program with mobile health integration for Chinese Americans with type 2 diabetes: Development and pilot evaluation study. *JMIR Formative Research*, 10, e77372. [doi:10.2196/77372](https://doi.org/10.2196/77372)
 
+Song, G., Johnson, C. A., Hwang, W. C., **Li, Y.**, & Xie, B. (2026). Racial and ethnic disparities in diabetes-related healthcare service use. *Frontiers in Clinical Diabetes and Healthcare*, 7, 1675970. [doi:10.3389/fcdhc.2026.1675970](https://doi.org/10.3389/fcdhc.2026.1675970)
+
 Scher, C. J., Anderson, K., Zagorski, W., Siamdoust, S., **Li, Y.**, & Sadarangani, T. (2025). "We feel like a family here": Person-centered outcomes of adult day services use from the voices of people living with dementia and their caregivers. *BMC Health Services Research*, 25(1), 1–12. [doi:10.1186/s12913-025-13436-8](https://doi.org/10.1186/s12913-025-13436-8)
 
-**Li, Y.**, Chok, J., Cui, G., Schultz, K., & Keith, A. (2025). Assessing dynamic capabilities in adult day services: A pilot study for measurement development. *Journal of Applied Gerontology*. Advance online publication. [doi:10.1177/07334648251337834](https://doi.org/10.1177/07334648251337834)
+**Li, Y.**, Chok, J., Cui, G., Schultz, K., & Keith, A. (2026). Assessing dynamic capabilities in adult day services: A pilot study for measurement development. *Journal of Applied Gerontology*, 45(2), 266–278. [doi:10.1177/07334648251337834](https://doi.org/10.1177/07334648251337834)
 
 Wu, Y., **Li, Y.**, Baskys, A., Chok, J., Hoffman, J., & Roosan, D. (2024). Health disparity in digital health technology design. *Health and Technology*. Advance online publication. [doi:10.1007/s12553-024-00814-1](https://doi.org/10.1007/s12553-024-00814-1)
 
@@ -34,6 +36,12 @@ Wu, Y., **Li, Y.**, Baskys, A., Chok, J., Hoffman, J., & Roosan, D. (2024). Heal
 
 **Li, Y.**, & Anderson, K. A. (2026, November 4–7). *Adult day services to support resilience in persons living with dementia: Comparing availability in high- and low-resource states*. Paper presented at Gerontological Society of America (GSA) Annual Scientific Meeting, National Harbor, MD.
 
+Oh, D., Tovar, G., Gonzalez, J., Sanchez, L., Schultz, K., Anderson, K. A., & **Li, Y.** (2026, November 4–7). *Adult day services in the age of AI: Keeping pace with technological innovation?* Late-breaking poster presented at Gerontological Society of America (GSA) Annual Scientific Meeting, National Harbor, MD.
+
+**Li, Y.**, & Chok, J. (2026, July 12–15). *Adapting to complexity in dementia care: Measuring dynamic capabilities in U.S. adult day services*. Presented at Alzheimer's Association International Conference (AAIC), London, UK.
+
+**Li, Y.**, Chen, Z., Jie, Y., & Zhang, K. (2026, July 12–15). *A community-based pilot of music-based binaural beat stimulation for cognitive impairment*. Presented at Alzheimer's Association International Conference (AAIC), London, UK.
+
 ---
 
-For a complete list of publications and presentations, please see my [CV](CV_YLi_Professional_Feb_2026.docx).
+For a complete list of publications and presentations, please see my [CV](CV%20YLi%20Professional.docx).

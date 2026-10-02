@@ -11,6 +11,13 @@ My research program centers on understanding how community-based long-term care 
 
 This study examines how adult day services centers across the United States sense environmental changes, adapt their operations, and continuously improve to meet the evolving needs of older adults and their families.
 
+**Project update:** The project has completed its first year. Qualitative interviews with ADS administrators nationwide have concluded, and in Year 2 the team is analyzing the interview data and developing the initial scale.
+
+### AI-Powered Multimodal Sensing for Cognitive Decline
+**CSU GUIDE Initiative (2026–2027) | Co-PI (PI: Q. Sun)**
+
+This project explores AI-powered multimodal sensing to identify micro-behavioral signatures of cognitive decline in older adults.
+
 ### Electronic Health Records in Adult Day Services
 Investigating patterns and predictors of EHR adoption among adult day services centers using national data from the National Study of Long-Term Care Providers.
 

@@ -18,7 +18,7 @@ Examines issues facing aging populations and evidence-based interventions for ol
 Focuses on organizational and community-level social work practice, including program development, policy advocacy, and community organizing.
 
 **[Study Abroad to China](china-study.html)**  
-China's Healthcare Revolution: Tradition Meets Innovation.
+China's Healthcare Revolution: Tradition Meets Innovation. Spring 2027 (China South) is now open for registration.
 
 ---
 
@@ -52,6 +52,6 @@ I actively mentor undergraduate and graduate students in research, serving as:
 
 ## Teaching Grants
 
-- **Beyond the Screen: Real China Behind Little RedNote** — CSUSB Signature Study Abroad Program ($8,000), 2025
+- **China's Healthcare Revolution: Tradition Meets Innovation** — CSUSB Signature Study Abroad Program ($8,000), 2025
 - **Peer Research Consultant Program** — Office of Student Research, CSUSB ($3,000), 2022–2023
 - **Service-Learning Fellowship** — CSUSB ($2,000), 2021–2022

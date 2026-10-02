@@ -12,26 +12,15 @@ This project develops and validates measures of dynamic capability—the organiz
 
 ---
 
-### Binaural Beat Stimulation for Alzheimer's Disease
-**CSUSB Catalytic Investment on Research and Innovation Seed (CiRIS) Program**  
-Role: Principal Investigator  
-Period: 2024–2025  
-Amount: $32,500
-
-A community-based pilot study assessing the efficacy of music-based binaural beat stimulation for patients with Alzheimer's disease.
-
-### Beyond the Screen: Real China behind Little RedNote
-**CSUSB Signature Study Abroad Program**  
-Role: Co-Investigator (Yu, J., Li, Y., Chen, Z., & Chen, K.)  
-Period: 2025  
-Amount: $8,000
-
----
-
-## Selected Completed Projects
+### AI-Powered Multimodal Sensing for Micro-Behavioral Signatures of Cognitive Decline in Older Adults
+**CSU GUIDE (Growth in Undergraduate Innovation, Discovery and Engagement) Initiative**  
+Role: Co-Principal Investigator (PI: Q. Sun)  
+Period: 2026–2027  
+Amount: $40,000
 
 | Project | Funder | Role | Period | Amount |
 |---------|--------|------|--------|--------|
+| Binaural Beat Stimulation for Alzheimer's Disease | CSUSB CiRIS Program | PI | 2024–2025 | $32,500 |
 | EHR Adoption in Adult Day Services | CSUSB Summer Research Fellowship | PI | 2024–2025 | $3,000 |
 | Technology Capability of Adult Day Services | CSUSB Undergraduate Summer Research | PI | 2023–2024 | $11,000 |
 | Culturally Tailored Diabetes Program for Chinese Americans | AHMC Foundation | Co-PI | 2016–2018 | $37,500 |
